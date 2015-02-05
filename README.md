@@ -14,7 +14,7 @@ MarkDown is an alternative simple syntax for formatting text files. Many text ed
 The purpose of this exercise is for you to write a full ReadMe file for one of your GitHub Repos.
 The ReadMe file inside your GitHub projects is also a MarkDown file.
 
-[MarkDown](http://en.wikipedia.org/wiki/Markdown"Markdown")
+[MarkDown](http://en.wikipedia.org/wiki/Markdown "Markdown")
 
 **Instruction**
 
